@@ -41,7 +41,7 @@ taskbar_active_background_id = 0
 
 # Tasks
 urgent_nb_of_blink = 8
-task_icon = 1
+task_icon = 0
 task_text = 1
 task_centered = 1
 task_maximum_size = 275 25
@@ -71,7 +71,7 @@ systray_padding = 0 0 4
 systray_sort = ascending
 systray_background_id = 0
 systray_icon_size = 16
-systray_icon_asb = 75 100 100
+systray_icon_asb = 100 0 0
 
 # Clock
 time1_format = %a %H:%M
