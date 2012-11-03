@@ -89,7 +89,7 @@ tooltip = 1
 tooltip_padding = 0 0
 tooltip_show_timeout = 0
 tooltip_hide_timeout = 0
-tooltip_background_id = 0
+tooltip_background_id = 1
 tooltip_font = Terminus 10
 tooltip_font_color = #FFFFFF 80
 
